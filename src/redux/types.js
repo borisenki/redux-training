@@ -1,0 +1,6 @@
+export const INCREMENT = "INCREMENT";
+export const DECREMENT = "DECREMENT";
+
+export const CHANGE_THEME = "CHANGE_THEME";
+
+export const LOCK_UI = "LOCK_UI";
